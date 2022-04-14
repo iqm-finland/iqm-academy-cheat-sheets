@@ -3,6 +3,12 @@
 This repository contains a collection of cheat sheets.
 The cheat sheets were created by [Stefan Seegerer](https://github.com/manzanillo) using Affinity Designer (.afdesign file).
 
+## Cheat Sheets
+
+### Quantum Computing Cheat Sheet for Circuit Magicians
+
+![Quantum Computing Cheat Sheet for Circuit Magicians](circuit-magicians/en/cheat-sheet-for-circuit-magicians.jpeg)
+
 ## Folder Structure
 
 Each cheat sheet has its own folder. Inside this folder there are different subdirectories for languages. However, at the moment only one cheat sheet is published. Stay tuned for more :-)

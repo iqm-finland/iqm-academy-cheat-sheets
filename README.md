@@ -13,4 +13,4 @@ If you found a mistake or want to contribute a translation, please create an iss
 
 ## Licence
 
-The cheat sheets are licenced under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) licence. So you are free to remix and share the content you created if you give attribution to the author (IQM Quantum Computers) and distribute your contributions under the same license as the original.
+The cheat sheets are licenced under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) licence. So you are free to remix and share the content you created if you give attribution to the author (IQM Quantum Computers) and distribute your contributions under the same license as the original. However, IQMs logo does not fall under this licence. In case you use it somewhere else, please remove IQMs logo.
